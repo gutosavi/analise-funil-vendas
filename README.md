@@ -17,3 +17,8 @@ Projeto de análise exploratória do comportamento de usuários em um e-commerce
 
 ## 📁 Estrutura
 
+## 🌐 Visualização online
+
+Você pode visualizar a análise diretamente no navegador:
+
+👉 [Clique aqui para abrir o notebook em HTML (via GitHub Pages)](https://gutosavi.github.io/analise-funil-vendas/analise-funil-vendas.html)
